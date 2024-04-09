@@ -2,10 +2,10 @@
 ## Katie Kim
 **In this article**
 
-* [Background](https://github.com/katieki/CSE110-Lab-1/new/main#background)
-* [My Programming Beginnings](https://github.com/katieki/CSE110-Lab-1/new/main#my-programming-beginnings)
-* [Favorite Languages](https://github.com/katieki/CSE110-Lab-1/new/main#favorite-languages)
-* [Future Plans](https://github.com/katieki/CSE110-Lab-1/new/main#future-plans)
+* [Background](https://katieki.github.io/CSE110-Lab-1/#background)
+* [My Programming Beginnings](https://katieki.github.io/CSE110-Lab-1/#my-programming-beginnings)
+* [Favorite Languages](https://katieki.github.io/CSE110-Lab-1/#favorite-languages)
+* [Future Plans](https://katieki.github.io/CSE110-Lab-1/#future-plans)
 
 
 ### Background
